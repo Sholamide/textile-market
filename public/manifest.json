@@ -2,7 +2,6 @@
   "theme_color": "#181717",
   "background_color": "#141414",
   "display": "standalone",
-  "scope": "/",
   "start_url": "/",
   "name": "Mobile Textile Market",
   "short_name": "MTM",
